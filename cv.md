@@ -13,9 +13,9 @@ I once studied the java, python and C++ programming language.
 many people say about me that I can easily find a common language with anyone. And I am very interested in learning something new.
 
 ## SKILLS
-1 HTML
-2 CSS
-3 GIT
+1. HTML
+2. CSS
+3. GIT
 
 ## Code examlpe
 ```
